@@ -15,7 +15,7 @@ export default class Header extends PureComponent {
             ... статистика загруженности контрольно-пропускных пунктов!
           </p>
         </Col>
-        <Col sm="12" className="bg-danger" style={{ height: "2px" }} />
+        <Col sm="12" className="bg-info" style={{ height: "1px" }} />
       </Row>
     );
   }
